@@ -26,7 +26,7 @@
 3. Установлен git и создан аккаунт на Github.
 4. Cоздан бот в Telegram:
 - инструкцию по созданию бота можно посмотреть [здесь](https://lifehacker.ru/kak-sozdat-bota-v-telegram/)
-- за основу бота можно взять код из модуля [main.py](https://github.com/netology-code/python-short-diplom/blob/main/main.py).
+- за основу бота можно взять код из модуля [main.py](https://github.com/netology-code/fshpd-diplom/blob/main/main.py).
 
 Если все этапы чеклиста пройдены, то можете стартовать работу над проектом. Успехов в работе!
 
@@ -39,7 +39,7 @@
 3. [Postgre](https://www.postgresql.org/) + [PgAdmin](https://www.pgadmin.org/)
 4. [Статья](https://habr.com/ru/post/580408/) по разработке бота в Telegram
 5. [Инструкция](https://lifehacker.ru/kak-sozdat-bota-v-telegram/) по созданию бота в Telegram
-6. Основа бота - код из модуля [main.py](https://github.com/netology-code/python-short-diplom/blob/main/main.py)
+6. Основа бота - код из модуля [main.py](https://github.com/netology-code/fshpd-diplom/blob/main/main.py)
 
 ------
 
